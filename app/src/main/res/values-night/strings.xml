@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="todo">TODO</string>
+    <string name="nome_de_utilizador">Nome de utilizador</string>
+    <string name="palavra_passe">Palavra-passe</string>
+    <string name="iniciar_sess_o">Iniciar Sessão</string>
+    <string name="criar_conta">Criar Conta</string>
+    <string name="insira_a_chave">Insira a chave</string>
+    <string name="gerar_qr_code">Gerar QR code</string>
+    <string name="primeiro_nome">Primeiro Nome</string>
+    <string name="ltimo_nome">Último Nome</string>
+    <string name="email">Email</string>
+    <string name="confirme_a_palavra_passe">Confirme a palavra-passe</string>
+    <string name="twitterUsername" />
+
+</resources>
